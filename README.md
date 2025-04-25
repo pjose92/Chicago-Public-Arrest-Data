@@ -51,17 +51,9 @@ This project focuses on cleaning and preparing publicly available crime data fro
 ---
 
 ## 🛠 Tools Used
-- Python 3.12
+- Python 
 - pandas
 - VS Code
-
----
-
-## 📈 Next Steps (Suggestions)
-- Load the cleaned dataset into MySQL or PostgreSQL
-- Perform visual analysis in Tableau or Power BI
-- Use geospatial libraries for mapping (e.g. `folium`, `geopandas`)
-- Build dashboards or predictive models on arrest patterns
 
 ---
 
